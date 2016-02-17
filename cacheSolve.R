@@ -1,5 +1,5 @@
 ## This function either pulls the cached matrix from "makeCacheMatrix" if already solved, 
-## or it solves it using the 
+## or it solves it using the function below
 
 cacheSolve <- function(x, ...) {
   inv <- x$getInverse()
