@@ -1,7 +1,7 @@
 ## These 2 functions, makeCacheMatrix and cacheSolve, are used in conjunction 
 ## to create an inverse of a matrix and cache its valvue (the inverse), and
 ## to pull that cached inverse (if already calculated) into the working environment 
-## in with cacheSolve is called.
+## in which cacheSolve is called.
 
 
 ## makeCacheMatrix computes the inverse of a matrix, x, and stores its value for later use
